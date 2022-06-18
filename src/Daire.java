@@ -7,7 +7,7 @@ public class Daire {
 
         System.out.println("Yaricapi giriniz : ");
         yaricap = girdi.nextInt();
-        System.out.println("Merkez aci olcusu girin : ");
+        System.out.println("Merkez aci olcusu giriniz : ");
         merkezaci = girdi.nextInt();
 
         alan = (3.14 * (yaricap * yaricap) * merkezaci)/360;
